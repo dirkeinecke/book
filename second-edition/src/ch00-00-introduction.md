@@ -1,6 +1,6 @@
-# Introduction
+# Einleitung
 
-Welcome to *The Rust Programming Language*, an introductory book about Rust.
+Willkommen bei *Die Programmiersprache Rust*, einem Einführungsbuch über Rust.
 
 The Rust programming language helps you write faster, more reliable software.
 High-level ergonomics and low-level control are often at odds in programming
