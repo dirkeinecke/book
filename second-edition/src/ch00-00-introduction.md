@@ -18,29 +18,30 @@ Rust bringt zudem die folgenden modernen Entwicklerwerkzeuge mit in die Welt der
   sorgt dafür, dass das Hinzufügen, Kompilieren und Verwalten von
   Abhängigkeiten im gesamten Ökosystem von Rust reibungslos und
   konsistent verläuft.
-* Rustfmt ensures a consistent coding style across developers.
-* The Rust Language Server powers Integrated Development Environment (IDE)
-  integration for code completion and inline error messages.
+* Rustfmt sorgt für einen einheitlichen, entwicklerübergreifenden Programmierstil.
+* Der Rust Language Server bietet Code-Vervollständigung und Inline-Fehlermeldungen
+  in Integrated Development Environments (IDEs).
 
-By using these and other tools in the Rust ecosystem, developers can be
-productive while writing systems-level code.
+Durch den Einsatz dieser und anderer Tools im Ökosystem von Rust wird die
+Produktivität der Entwickler beim Schreiben von Code für die Systemebene
+sichergestellt.
 
 ### Studenten
 
-Rust is for students and those who are interested in learning about systems
-concepts. Using Rust, many people have learned about topics like operating
-systems development. The community is very welcoming and happy to answer
-student questions. Through efforts such as this book, the Rust teams want to
-make systems concepts more accessible to more people, especially those new to
-programming.
+Rust richtet sich an Studenten, die sich für Systemkonzepte interessieren.
+Durch den Einsatz von Rust haben bereits viele Menschen etwas über Themen
+wie die Entwicklung von Betriebssystemen gelernt. Die Gemeinschaft ist sehr
+offen und beantwortet gerne Fragen der Studenten. Das Rust-Team möchte mit
+Hilfen wie diesem Buch Systemkonzepte mehr Menschen zugänglich machen.
+Ganz besonders Neueinsteigern in der Welt des Programmierens.
 
 ### Unternehmen
 
-Hundreds of companies, large and small, use Rust in production for a variety of
-tasks. Those tasks include command line tools, web services, DevOps tooling,
-embedded devices, audio and video analysis and transcoding, cryptocurrencies,
-bioinformatics, search engines, internet of things applications, machine
-learning, and even major parts of the Firefox web browser.
+Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl
+von Aufgaben. Zu diesen gehören Kommandozeilen-Tools, Webservices, DevOps-Tools,
+Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen,
+Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar
+große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
 
 ### Open Source Entwickler
 
