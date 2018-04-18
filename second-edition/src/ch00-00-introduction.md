@@ -12,11 +12,12 @@ Rust ist für viele Menschen aus verschiedenen Gründen ideal. Schauen wir uns e
 
 Rust bietet sich als Werkzeug bei der Zusammenarbeit in großen Teams von Entwicklern mit unterschiedlichen Kenntnisstand in der Systemprogrammierung an. Low-Level-Code ist anfällig für eine Vielzahl von schleichenden Fehlern. Diese können in den meisten anderen Sprachen nur mithilfe ausgiebiger Tests und sorgfältiger Code-Reviews von erfahrenen Entwicklern gefunden werden. In Rust werden solche schwer zu fassenden Fehler (inklusive Fehler bzgl. der Nebenläufigkeit (Concurrency Bugs)) bereits durch den Compiler entdeckt und er weigert sich dann, den Code zu übersetzen. Durch die Verwendung eines solchen Compilers kann sich das Team stärker auf die eigentliche Programmlogik konzentrieren, anstatt Fehler zu suchen.
 
-Rust also brings contemporary developer tools to the systems programming world:
+Rust bringt zudem die folgenden modernen Entwicklerwerkzeuge mit in die Welt der Systemprogrammierung:
 
-* Cargo, the included dependency manager and build tool, makes adding,
-  compiling, and managing dependencies painless and consistent across the Rust
-  ecosystem.
+* Cargo, der mitgelieferte Paket-Manager und zugleich Build-Tool,
+  sorgt dafür, dass das Hinzufügen, Kompilieren und Verwalten von
+  Abhängigkeiten im gesamten Ökosystem von Rust reibungslos und
+  konsistent verläuft.
 * Rustfmt ensures a consistent coding style across developers.
 * The Rust Language Server powers Integrated Development Environment (IDE)
   integration for code completion and inline error messages.
@@ -24,7 +25,7 @@ Rust also brings contemporary developer tools to the systems programming world:
 By using these and other tools in the Rust ecosystem, developers can be
 productive while writing systems-level code.
 
-### Students
+### Studenten
 
 Rust is for students and those who are interested in learning about systems
 concepts. Using Rust, many people have learned about topics like operating
@@ -33,7 +34,7 @@ student questions. Through efforts such as this book, the Rust teams want to
 make systems concepts more accessible to more people, especially those new to
 programming.
 
-### Companies
+### Unternehmen
 
 Hundreds of companies, large and small, use Rust in production for a variety of
 tasks. Those tasks include command line tools, web services, DevOps tooling,
@@ -41,7 +42,7 @@ embedded devices, audio and video analysis and transcoding, cryptocurrencies,
 bioinformatics, search engines, internet of things applications, machine
 learning, and even major parts of the Firefox web browser.
 
-### Open Source Developers
+### Open Source Entwickler
 
 Rust is for people who want to build the Rust programming language, community,
 developer tools, and libraries. We’d love to have you contribute to the Rust
@@ -65,7 +66,7 @@ trade-offs that programmers have accepted for decades: safety *and*
 productivity, speed *and* ergonomics. Give Rust a try, and see if its choices
 work for you.
 
-## Who This Book Is For
+## Die Zielgruppe dieses Buches
 
 This book assumes that you’ve written code in another programming language but
 doesn’t make any assumptions about which one. We’ve tried to make the material
