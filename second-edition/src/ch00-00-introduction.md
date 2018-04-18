@@ -2,28 +2,15 @@
 
 Willkommen bei *Die Programmiersprache Rust*, einem Einführungsbuch über Rust.
 
-The Rust programming language helps you write faster, more reliable software.
-High-level ergonomics and low-level control are often at odds in programming
-language design; Rust challenges that conflict. Through balancing powerful
-technical capacity and a great developer experience, Rust gives you the option
-to control low-level details (such as memory usage) without all the hassle
-traditionally associated with such control.
+Die Programmiersprache Rust hilft Ihnen dabei, schnellere und zuverlässigere Software zu schreiben. Hohe Ergonomie und Low-Level-Kontrolle sind beim Sprachdesign von Programmiersprachen oft unvereinbar. Rust stellt sich dieser Herausforderung. Durch das Ausbalancieren von technischer Leistungsfähigkeit und einer großen Entwicklererfahrung bietet Ihnen Rust die Möglichkeit, Low-Level-Details (z. B. Speicherverbrauch) ohne große Schwierigkeiten zu kontrollieren. Eine solche Überwachung ist sonst nur mit großem Aufwand machbar.
 
-## Who Rust Is For
+## Die Zielgruppe von Rust
 
-Rust is ideal for many people for a variety of reasons. Let’s look at a few of
-the most important groups.
+Rust ist für viele Menschen aus verschiedenen Gründen ideal. Schauen wir uns ein paar der wichtigsten Gruppen an.
 
-### Teams of Developers
+### Entwicklerteams
 
-Rust is proving to be a productive tool for collaborating among large teams of
-developers with varying levels of systems programming knowledge. Low-level code
-is prone to a variety of subtle bugs, which in most other languages can only be
-caught through extensive testing and careful code review by experienced
-developers. In Rust, the compiler plays a gatekeeper role by refusing to
-compile code with these elusive bugs, including concurrency bugs. By working
-alongside the compiler, the team can spend more time focusing on the program’s
-logic rather than chasing down bugs.
+Rust bietet sich als Werkzeug bei der Zusammenarbeit in großen Teams von Entwicklern mit unterschiedlichen Kenntnisstand in der Systemprogrammierung an. Low-Level-Code ist anfällig für eine Vielzahl von schleichenden Fehlern. Diese können in den meisten anderen Sprachen nur mithilfe ausgiebiger Tests und sorgfältiger Code-Reviews von erfahrenen Entwicklern gefunden werden. In Rust werden solche schwer zu fassenden Fehler (inklusive Fehler bzgl. der Nebenläufigkeit (Concurrency Bugs)) bereits durch den Compiler entdeckt und er weigert sich dann, den Code zu übersetzen. Durch die Verwendung eines solchen Compilers kann sich das Team stärker auf die eigentliche Programmlogik konzentrieren, anstatt Fehler zu suchen.
 
 Rust also brings contemporary developer tools to the systems programming world:
 
