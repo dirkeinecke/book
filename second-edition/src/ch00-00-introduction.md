@@ -50,16 +50,9 @@ an Entwicklertools und Bibliotheken mitarbeiten möchten oder sich in der
 Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist
 und auch etwas zu Rust beiträgst.
 
-### People Who Value Speed and Stability
+### Menschen, die Geschwindigkeit und Stabilität schätzen
 
-Rust is for people who crave speed and stability in a language. By speed, we
-mean the speed of the programs that you can create with Rust and the speed at
-which Rust lets you write them. The Rust compiler’s checks ensure stability
-through feature additions and refactoring as opposed to brittle legacy code in
-languages without these checks that developers are afraid to modify. By
-striving for zero-cost abstractions, higher-level features that compile to
-lower-level code as fast as code written manually, Rust endeavors to make safe
-code be fast code as well.
+Rust ist für all diejenigen, die sich Schnelligkeit und Stabilität in einer Programmiersprache wünschen. Mit Geschwindigkeit meinen wir auf der einen Seite die Ausführungsgeschwindigkeit der Programme, die du mit Rust erstellst und auf der anderen Seite die Zeit, die du zum Schreiben der Rust-Programme benötigst. Die Überprüfungen, die der Compiler von Rust durchführt, sorgen mit Feature-Ergänzungen und Refactoring für Stabilität. Andere Sprachen sind ohne diese Überprüfungen an dieser Stelle von wackeligen Code voller Altlasten gekennzeichnet. Solchen Code möchte kein Entwickler gern verändern. Neben kostenneutraler Abstraktion und der Kompilierung von High-Level-Features zu Low-Level-Code ist Rust immer bemüht, sicheren wie auch schnellen Code zu erzeugen.
 
 Although we’ve not provided a complete list of everyone the Rust language hopes
 to support, those we have mentioned are some of the biggest stakeholders.
