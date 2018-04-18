@@ -45,9 +45,10 @@ große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
 
 ### Open Source Entwickler
 
-Rust is for people who want to build the Rust programming language, community,
-developer tools, and libraries. We’d love to have you contribute to the Rust
-language.
+Rust richtet sich auch an all diejenigen, die an der Programmiersprache Rust,
+an Entwicklertools und Bibliotheken mitarbeiten möchten oder sich in der
+Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist
+und auch etwas zu Rust beiträgst.
 
 ### People Who Value Speed and Stability
 
