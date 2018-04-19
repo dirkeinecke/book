@@ -22,44 +22,25 @@ Rust bringt zudem die folgenden modernen Entwicklerwerkzeuge mit in die Welt der
 * Der Rust Language Server bietet Code-Vervollständigung und Inline-Fehlermeldungen
   in Integrated Development Environments (IDEs).
 
-Durch den Einsatz dieser und anderer Tools im Ökosystem von Rust wird die
-Produktivität der Entwickler beim Schreiben von Code für die Systemebene
-sichergestellt.
+Durch den Einsatz dieser und anderer Tools im Ökosystem von Rust wird die Produktivität der Entwickler beim Schreiben von Code für die Systemebene sichergestellt.
 
 ### Studenten
 
-Rust richtet sich an Studenten, die sich für Systemkonzepte interessieren.
-Durch den Einsatz von Rust haben bereits viele Menschen etwas über Themen
-wie die Entwicklung von Betriebssystemen gelernt. Die Gemeinschaft ist sehr
-offen und beantwortet gerne Fragen der Studenten. Das Rust-Team möchte mit
-Hilfen wie diesem Buch Systemkonzepte mehr Menschen zugänglich machen.
-Ganz besonders Neueinsteigern in der Welt des Programmierens.
+Rust richtet sich an Studenten, die sich für Systemkonzepte interessieren. Durch den Einsatz von Rust haben bereits viele Menschen etwas über Themen wie die Entwicklung von Betriebssystemen gelernt. Die Gemeinschaft ist sehr offen und beantwortet gerne Fragen der Studenten. Das Rust-Team möchte mit Hilfen wie diesem Buch Systemkonzepte mehr Menschen zugänglich machen. Ganz besonders Neueinsteigern in der Welt des Programmierens.
 
 ### Unternehmen
 
-Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl
-von Aufgaben. Zu diesen gehören Kommandozeilen-Tools, Webservices, DevOps-Tools,
-Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen,
-Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar
-große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
+Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl von Aufgaben. Zu diesen gehören Kommandozeilen-Tools, Webservices, DevOps-Tools, Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen, Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
 
 ### Open Source Entwickler
 
-Rust richtet sich auch an all diejenigen, die an der Programmiersprache Rust,
-an Entwicklertools und Bibliotheken mitarbeiten möchten oder sich in der
-Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist
-und auch etwas zu Rust beiträgst.
+Rust richtet sich auch an all diejenigen, die an der Programmiersprache Rust, an Entwicklertools und Bibliotheken mitarbeiten möchten oder sich in der Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist und auch etwas zu Rust beiträgst.
 
 ### Menschen, die Geschwindigkeit und Stabilität schätzen
 
 Rust ist für all diejenigen, die sich Schnelligkeit und Stabilität in einer Programmiersprache wünschen. Mit Geschwindigkeit meinen wir auf der einen Seite die Ausführungsgeschwindigkeit der Programme, die du mit Rust erstellst und auf der anderen Seite die Zeit, die du zum Schreiben der Rust-Programme benötigst. Die Überprüfungen, die der Compiler von Rust durchführt, sorgen mit Feature-Ergänzungen und Refactoring für Stabilität. Andere Sprachen sind ohne diese Überprüfungen an dieser Stelle von wackeligen Code voller Altlasten gekennzeichnet. Solchen Code möchte kein Entwickler gern verändern. Neben kostenneutraler Abstraktion und der Kompilierung von High-Level-Features zu Low-Level-Code ist Rust immer bemüht, sicheren wie auch schnellen Code zu erzeugen.
 
-Although we’ve not provided a complete list of everyone the Rust language hopes
-to support, those we have mentioned are some of the biggest stakeholders.
-Overall, Rust’s greatest ambition is to eliminate the dichotomy of the
-trade-offs that programmers have accepted for decades: safety *and*
-productivity, speed *and* ergonomics. Give Rust a try, and see if its choices
-work for you.
+An dieser Stelle haben wir nur einige der größten Interessengruppen genannt. Diese Liste ist natürlich nicht vollständig. Es gibt noch eine Vielzahl weiterer Gruppen und Bereich, in denen Rust versucht, allen hilfreich zur Seite zu stehen. Insgesamt ist Rust bemüht, die seit Jahrzehnten bestehenden Gegensätze und Kompromisse bestehend aus Sicherheit *und* Produktivität, Geschwindigkeit *und* Ergonomie aufzulösen. Probier Rust einfach mal aus und schau, ob diese Programmiersprache etwas für dich ist.
 
 ## Die Zielgruppe dieses Buches
 
