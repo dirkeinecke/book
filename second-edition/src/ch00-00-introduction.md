@@ -32,9 +32,9 @@ Rust richtet sich an Studenten, die sich für Systemkonzepte interessieren. Durc
 
 Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl von Aufgaben. Zu diesen gehören Kommandozeilen-Tools, Webservices, DevOps-Tools, Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen, Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
 
-### Open Source Entwickler
+### Open-Source-Entwickler
 
-Rust richtet sich auch an all diejenigen, die an der Programmiersprache Rust, an Entwicklertools und Bibliotheken mitarbeiten möchten oder sich in der Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist und auch etwas zu Rust beiträgst.
+Rust richtet sich auch an all diejenigen, die an der Programmiersprache Rust, an Entwicklerwerkzeugen und Bibliotheken mitarbeiten oder sich in der Community engagieren möchten. Wir würden uns freuen, wenn du mit dabei bist und auch etwas zu Rust beiträgst.
 
 ### Menschen, die Geschwindigkeit und Stabilität schätzen
 
