@@ -46,7 +46,7 @@ An dieser Stelle haben wir nur einige der größten Interessengruppen genannt. D
 
 In diesem Buch gehen wir davon aus, dass du bereits Code in einer anderen Programmiersprache geschrieben hast. Dabei ist es nicht so wichtig, welche Erfahrungen du mit anderen Programmiersprachen bereits gemacht hast oder aus welchem Bereich du kommst. Wir haben versucht, den Zugang zu Rust für alle möglichst einfach zu gestalten. Wenn du allerdings erst sehr wenige Erfahrungen oder noch gar keine Erfahrungen beim Programmieren gesammelt hast, dann empfehlen wir dir, zuvor ein Buch zu lesen, welches sich mit den Grundlagen des Programmierens im Allgemeinen beschäftigt. Darüber werden wir nämlich in diesem Buch nicht sprechen.
 
-## How to Use This Book
+## Wie du dieses Buch liest
 
 In general, this book assumes that you’re reading it in sequence from front to
 back. Later chapters build on concepts in earlier chapters, and earlier
