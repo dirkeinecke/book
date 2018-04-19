@@ -44,12 +44,7 @@ An dieser Stelle haben wir nur einige der größten Interessengruppen genannt. D
 
 ## Die Zielgruppe dieses Buches
 
-This book assumes that you’ve written code in another programming language but
-doesn’t make any assumptions about which one. We’ve tried to make the material
-broadly accessible to those from a wide variety of programming backgrounds. We
-don’t spend a lot of time talking about what programming *is* or how to think
-about it. If you’re entirely new to programming, you would be better served by
-reading a book that specifically provides an introduction to programming.
+In diesem Buch gehen wir davon aus, dass du bereits Code in einer anderen Programmiersprache geschrieben hast. Dabei ist es nicht so wichtig, welche Erfahrungen du mit anderen Programmiersprachen bereits gemacht hast oder aus welchem Bereich du kommst. Wir haben versucht, den Zugang zu Rust für alle möglichst einfach zu gestalten. Wenn du allerdings erst sehr wenige Erfahrungen oder noch gar keine Erfahrungen beim Programmieren gesammelt hast, dann empfehlen wir dir, zuvor ein Buch zu lesen, welches sich mit den Grundlagen des Programmierens im Allgemeinen beschäftigt. Darüber werden wir nämlich in diesem Buch nicht sprechen.
 
 ## How to Use This Book
 
