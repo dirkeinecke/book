@@ -30,7 +30,7 @@ Rust richtet sich an Studenten, die sich für Systemkonzepte interessieren. Durc
 
 ### Unternehmen
 
-Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl von Aufgaben. Zu diesen gehören Kommandozeilen-Tools, Webservices, DevOps-Tools, Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen, Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
+Hunderte kleiner und großer Unternehmen setzen auf Rust bei einer Vielzahl von Aufgaben. Zu diesen gehören Kommandozeilenwerkzeuge, Webservices, DevOps-Tools, Embedded Devices, Audio- und Videoanalyse und -transkodierung, Krypto-Währungen, Bioinformatik, Suchmaschinen, Internet der Dinge und maschinelles Lernen. Sogar große Teile des Firefox-Webbrowsers wurden in Rust geschrieben.
 
 ### Open-Source-Entwickler
 
@@ -48,10 +48,7 @@ In diesem Buch gehen wir davon aus, dass du bereits Code in einer anderen Progra
 
 ## Wie du dieses Buch liest
 
-In general, this book assumes that you’re reading it in sequence from front to
-back. Later chapters build on concepts in earlier chapters, and earlier
-chapters might not delve into details on a topic; we typically revisit the
-topic in a later chapter.
+Dieses Buch ist so konzipiert, dass es von vorne nach hinten durchgearbeitet wird. In den ersten Kapiteln werden Grundlagen gelegt, die in den späteren Kapiteln benötigt bzw. vertieft werden.
 
 You’ll find two kinds of chapters in this book: concept chapters and project
 chapters. In concept chapters, you’ll learn about an aspect of Rust. In project
